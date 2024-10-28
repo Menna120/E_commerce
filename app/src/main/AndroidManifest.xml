@@ -15,8 +15,7 @@
         tools:targetApi="31">
         <activity
             android:name=".ui.screens.main_activity.MainActivity"
-            android:exported="true"
-            android:theme="@style/Theme.E_commerce.SplashScreen">
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
